@@ -1,42 +1,8 @@
-# Coffee-Sales-Excel-Project
-**Overview**
+#**Coffee Sales Performance Analysis & Executive Dashboard**
+#**Project Overview**
 
-This project presents a multi-year sales analysis dashboard (2019–2022) built in Excel. The dashboard provides insight into revenue trends, geographic performance, and top-performing customers.
+This project analyzes multi-year coffee sales data to identify key revenue drivers, customer purchasing behavior, and regional growth opportunities.
 
-**Objectives**
+Rather than focusing solely on visualization, the analysis was designed to simulate a real business scenario where leadership seeks data-driven answers to performance questions and actionable recommendations for growth.
 
-1. Track total sales performance over time
-
-2. Compare sales by country
-
-3. Identify top 5 revenue-generating customers
-
-4. Enable interactive filtering for deeper analysis
-
-**Data Preparation & Modeling**
-
-1. Data overview and validation
-
-2. Converted raw data into structured tables
-
-3. Performed duplicate checks
-
-4. Applied XLOOKUP and INDEX-MATCH for data mapping
-
-5. Created calculated sales columns using multiplication formulas
-
-6. Used IFS for logical categorization
-
-7. Applied date and number formatting
-
-**Dashboard Development**
-
-1. Built Pivot Tables and Pivot Charts
-
-2. Added slicers for interactive filtering
-
-3. Designed final executive-style dashboard layout
-
-**Tool Used**
-
-Microsoft Excel
+The final deliverable is an interactive Excel dashboard supported by structured data cleaning, pivot-table modeling, KPI design, and analytical investigation.
