@@ -53,9 +53,7 @@ The analysis focused on answering core business questions:
 
 #### Growth and Seasonality Trends
 
-1. Sales consistently peak during Q4, suggesting seasonal demand patterns aligned with holiday purchasing.
-
-2. Growth patterns indicate performance changes are driven more by purchasing intensity than product diversification.
+1. Growth patterns indicate performance changes are driven more by purchasing intensity than product diversification.
 
 
 
@@ -67,15 +65,11 @@ Based on the analysis:
 
     Introduce loyalty incentives in underperforming regions to replicate high-value customer behavior observed in primary markets.
 
-**2. Leverage Seasonal Demand**
-
-    Increase inventory and marketing efforts ahead of Q4 demand spikes.
-
-**3. Reduce Revenue Concentration Risk**
+**2. Reduce Revenue Concentration Risk**
 
     Invest in growth strategies for Ireland and the UK to diversify revenue sources.
 
-**4. Prioritize High-Performing Products**
+**3. Prioritize High-Performing Products**
 
     Focus marketing and supply optimization around consistently strong-performing roast types.
 
