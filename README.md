@@ -1,5 +1,6 @@
 **Coffee Sales Performance Analysis and Executive Dashboard**
 
+
 **Project Overview**
 
 This project analyzes multi-year coffee sales data to identify key revenue drivers, customer purchasing behavior, and regional growth opportunities.
@@ -7,6 +8,7 @@ This project analyzes multi-year coffee sales data to identify key revenue drive
 Rather than focusing solely on visualization, the analysis was designed to simulate a real business scenario where leadership seeks data-driven answers to performance questions and actionable recommendations for growth.
 
 The final deliverable is an interactive Excel dashboard supported by structured data cleaning, pivot-table modeling, KPI design, and analytical investigation.
+
 
 **Analytical Investigation**
 
@@ -22,21 +24,17 @@ The analysis focused on answering core business questions:
 
 5. Are there seasonal purchasing patterns?
 
-**KPI Framework**
 
-The dashboard was built around executive-level KPIs:
+**Key Insights**
 
-1. Sales Performance Over Time
+## Product Performance
 
-2. Revenue by Country
+1. Arabica demonstrates the most consistent revenue contribution across periods, indicating strong and stable demand.
 
-3. Top Customers by Spend
+2. Other roast types show higher variability, suggesting promotional or seasonal dependency.
 
-4. Product (Roast Type) Performance
 
-5. Customer Loyalty Impact
 
-These KPIs allow stakeholders to quickly assess business health before exploring detailed trends.
 
 
 
