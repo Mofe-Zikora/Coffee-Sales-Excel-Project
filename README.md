@@ -10,6 +10,7 @@ Rather than focusing solely on visualization, the analysis was designed to simul
 The final deliverable is an interactive Excel dashboard supported by structured data cleaning, pivot-table modeling, KPI design, and analytical investigation.
 
 
+
 ## Analytical Investigation
 
 The analysis focused on answering core business questions:
@@ -23,6 +24,7 @@ The analysis focused on answering core business questions:
 4. Which regions present growth opportunities or risks
 
 5. Are there seasonal purchasing patterns?
+
 
 
 ## Key Insights
@@ -54,6 +56,7 @@ The analysis focused on answering core business questions:
 1. Sales consistently peak during Q4, suggesting seasonal demand patterns aligned with holiday purchasing.
 
 2. Growth patterns indicate performance changes are driven more by purchasing intensity than product diversification.
+
 
 
 ## Business Recommendations
