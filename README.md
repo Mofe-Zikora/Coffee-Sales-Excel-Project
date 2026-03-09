@@ -27,7 +27,7 @@ The analysis focused on answering core business questions:
 
 **Key Insights**
 
-## Product Performance
+# Product Performance
 
 1. Arabica demonstrates the most consistent revenue contribution across periods, indicating strong and stable demand.
 
