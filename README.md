@@ -29,13 +29,13 @@ The analysis focused on answering core business questions:
 
 ## Key Insights
 
-### Product Performance
+#### Product Performance
 
 1. Arabica demonstrates the most consistent revenue contribution across periods, indicating strong and stable demand.
 
 2. Other roast types show higher variability, suggesting promotional or seasonal dependency.
 
-### Customer Behavior Analysis
+#### Customer Behavior Analysis
 
 1. Customers using loyalty cards exhibit higher purchasing value compared to non-loyalty customers.
 
@@ -43,7 +43,7 @@ The analysis focused on answering core business questions:
 
 **Insight:** Customer loyalty programs positively influence spending behavior.
 
-### Regional Performance
+#### Regional Performance
 
 1. Sales are heavily concentrated in the United States, representing the primary revenue driver.
 
@@ -51,7 +51,7 @@ The analysis focused on answering core business questions:
 
 **Risk Identified:** Geographic revenue dependency.
 
-### Growth & Seasonality Trends
+#### Growth & Seasonality Trends
 
 1. Sales consistently peak during Q4, suggesting seasonal demand patterns aligned with holiday purchasing.
 
