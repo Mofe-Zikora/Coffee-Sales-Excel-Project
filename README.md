@@ -1,5 +1,6 @@
-#**Coffee Sales Performance Analysis & Executive Dashboard**
-#**Project Overview**
+**Coffee Sales Performance Analysis & Executive Dashboard**
+
+**Project Overview**
 
 This project analyzes multi-year coffee sales data to identify key revenue drivers, customer purchasing behavior, and regional growth opportunities.
 
