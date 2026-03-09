@@ -33,6 +33,49 @@ The analysis focused on answering core business questions:
 
 2. Other roast types show higher variability, suggesting promotional or seasonal dependency.
 
+### Customer Behavior Analysis
+
+1. Customers using loyalty cards exhibit higher purchasing value compared to non-loyalty customers.
+
+2. Revenue concentration among top customers highlights the importance of retention strategies.
+
+**Insight:** Customer loyalty programs positively influence spending behavior.
+
+### Regional Performance
+
+1. Sales are heavily concentrated in the United States, representing the primary revenue driver.
+
+2. Ireland and the United Kingdom contribute significantly less revenue, indicating expansion potential.
+
+**Risk Identified:** Geographic revenue dependency.
+
+### Growth & Seasonality Trends
+
+1. Sales consistently peak during Q4, suggesting seasonal demand patterns aligned with holiday purchasing.
+
+2. Growth patterns indicate performance changes are driven more by purchasing intensity than product diversification.
+
+
+## Business Recommendations
+
+Based on the analysis:
+
+**1. Expand Loyalty Programs**
+
+    Introduce loyalty incentives in underperforming regions to replicate high-value customer behavior observed in primary markets.
+
+**2. Leverage Seasonal Demand**
+
+    Increase inventory and marketing efforts ahead of Q4 demand spikes.
+
+**3. Reduce Revenue Concentration Risk**
+
+    Invest in growth strategies for Ireland and the UK to diversify revenue sources.
+
+**4. Prioritize High-Performing Products**
+
+    Focus marketing and supply optimization around consistently strong-performing roast types.
+
 
 
 
