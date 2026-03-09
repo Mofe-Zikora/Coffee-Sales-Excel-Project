@@ -51,7 +51,7 @@ The analysis focused on answering core business questions:
 
 **Risk Identified:** Geographic revenue dependency.
 
-#### Growth & Seasonality Trends
+#### Growth and Seasonality Trends
 
 1. Sales consistently peak during Q4, suggesting seasonal demand patterns aligned with holiday purchasing.
 
